@@ -13,7 +13,7 @@
     <parameter key="encoding" value="SYSTEM"/>
     <process expanded="true">
       <operator activated="true" class="read_csv" compatibility="9.10.011" expanded="true" height="68" name="Read_Data" width="90" x="112" y="136">
-        <parameter key="csv_file" value="C:\Users\crmi9422\Downloads\iris_data.csv"/>
+        <parameter key="csv_file" value="X:/Documents/GitHub/prueba/DATA_LAB1/iris_data.csv"/>
         <parameter key="column_separators" value=";"/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
@@ -44,7 +44,7 @@
         <parameter key="read_not_matching_values_as_missings" value="false"/>
       </operator>
       <operator activated="true" class="read_csv" compatibility="9.10.011" expanded="true" height="68" name="Read_Labels" width="90" x="112" y="34">
-        <parameter key="csv_file" value="C:\Users\crmi9422\Downloads\iris_labels.csv"/>
+        <parameter key="csv_file" value="X:/Documents/GitHub/prueba/DATA_LAB1/iris_labels.csv"/>
         <parameter key="column_separators" value=";"/>
         <parameter key="trim_lines" value="false"/>
         <parameter key="use_quotes" value="true"/>
